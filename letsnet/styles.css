@@ -1,0 +1,177 @@
+/*-------------------------------------------------------------
+						
+						CSS Reset
+						
+--------------------------------------------------------------*/
+
+/* http://meyerweb.com/eric/tools/css/reset/ 2. v2.0 | 20110126
+  License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+body {
+  line-height: 1;
+}
+ol, ul {
+  list-style: none;
+}
+blockquote, q {
+  quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: '';
+  content: none;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/*-------------------------------------------------------------
+						
+						Body
+						
+--------------------------------------------------------------*/
+
+body {
+    overflow: auto;
+    height: auto;
+    font: 300 16px/22px "Helvetica Neue" Helvetica Arial sans-serif;
+    background-color: white; 
+    overflow-x: hidden;
+}
+
+/*-------------------------------------------------------------
+						
+						Header
+						
+--------------------------------------------------------------*/
+
+header {
+	background: white;
+	position: absolute;
+	top: 0;
+	width: 100%;
+	height: 15vh;
+	background: white;
+	box-shadow: 0 3px 10px grey;
+}
+
+/*-------------------------------------------------------------
+						
+						Arrows
+						
+--------------------------------------------------------------*/
+
+.arrow {
+	width: 4vw;
+	height: auto;
+	position: absolute;
+	right: 48vw;
+	bottom: -2vw;
+	z-index: 200;
+}
+
+/*-------------------------------------------------------------
+						
+						Fullscreen
+						
+--------------------------------------------------------------*/
+
+.fullscreen {
+	height: 100vh;
+	max-height: 100vh;
+	width: 100%;
+	max-width: 100%;
+	position: relative;
+}
+
+.first {
+	
+}
+
+.second {
+	background: black;
+	color: white;
+}
+
+/*-------------------------------------------------------------
+						
+						Footer
+						
+--------------------------------------------------------------*/
+
+footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	height: 15vh;
+	background: white;
+	color: black;
+}
+
+/*-------------------------------------------------------------
+						
+						Slider
+						
+--------------------------------------------------------------*/
+
+.firstpart {
+	height: 95vh;
+	max-height: 95vh;
+	width: 100%;
+	max-width: 100%;
+	position: relative;
+}
+
+#slider {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    box-sizing: border-box;
+}
+
+#slider .slides {
+    width: 500%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+#slider .slide {
+    float: left;
+    list-style-type: none;
+    width: 20%;
+    height: 100%;
+}
+
+.slide1 {background-image: url('img/villa1.jpg');}
+.slide2 {background-image: url('img/villa2.jpg');}
+.slide3 {background-image: url('img/villa3.jpg');}
+.slide4 {background-image: url('img/villa2.jpg');}
+.slide5 {background-image: url('img/villa1.jpg');}
