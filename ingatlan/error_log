@@ -1,0 +1,81 @@
+[28-Mar-2016 23:07:49 CET] PHP Warning:  require(slideshow/slider.php): failed to open stream: No such file or directory in /home/letsneth/public_html/ingatlan/index.php on line 22
+[28-Mar-2016 23:07:49 CET] PHP Warning:  require(slideshow/slider.php): failed to open stream: No such file or directory in /home/letsneth/public_html/ingatlan/index.php on line 22
+[28-Mar-2016 23:07:49 CET] PHP Fatal error:  require(): Failed opening required 'slideshow/slider.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/letsneth/public_html/ingatlan/index.php on line 22
+[28-Mar-2016 23:22:11 CET] PHP Warning:  require(slieshow/slide.php): failed to open stream: No such file or directory in /home/letsneth/public_html/ingatlan/index.php on line 21
+[28-Mar-2016 23:22:11 CET] PHP Warning:  require(slieshow/slide.php): failed to open stream: No such file or directory in /home/letsneth/public_html/ingatlan/index.php on line 21
+[28-Mar-2016 23:22:11 CET] PHP Fatal error:  require(): Failed opening required 'slieshow/slide.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/letsneth/public_html/ingatlan/index.php on line 21
+[28-Mar-2016 23:22:32 CET] PHP Warning:  require(slieshow/slide.php): failed to open stream: No such file or directory in /home/letsneth/public_html/ingatlan/index.php on line 21
+[28-Mar-2016 23:22:32 CET] PHP Warning:  require(slieshow/slide.php): failed to open stream: No such file or directory in /home/letsneth/public_html/ingatlan/index.php on line 21
+[28-Mar-2016 23:22:32 CET] PHP Fatal error:  require(): Failed opening required 'slieshow/slide.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/letsneth/public_html/ingatlan/index.php on line 21
+[28-Mar-2016 23:23:31 CET] PHP Warning:  require(slieshow/slide.php): failed to open stream: No such file or directory in /home/letsneth/public_html/ingatlan/index.php on line 21
+[28-Mar-2016 23:23:31 CET] PHP Warning:  require(slieshow/slide.php): failed to open stream: No such file or directory in /home/letsneth/public_html/ingatlan/index.php on line 21
+[28-Mar-2016 23:23:31 CET] PHP Fatal error:  require(): Failed opening required 'slieshow/slide.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/letsneth/public_html/ingatlan/index.php on line 21
+[28-Mar-2016 23:23:32 CET] PHP Warning:  require(slieshow/slide.php): failed to open stream: No such file or directory in /home/letsneth/public_html/ingatlan/index.php on line 21
+[28-Mar-2016 23:23:32 CET] PHP Warning:  require(slieshow/slide.php): failed to open stream: No such file or directory in /home/letsneth/public_html/ingatlan/index.php on line 21
+[28-Mar-2016 23:23:32 CET] PHP Fatal error:  require(): Failed opening required 'slieshow/slide.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/letsneth/public_html/ingatlan/index.php on line 21
+[28-Mar-2016 23:23:32 CET] PHP Warning:  require(slieshow/slide.php): failed to open stream: No such file or directory in /home/letsneth/public_html/ingatlan/index.php on line 21
+[28-Mar-2016 23:23:32 CET] PHP Warning:  require(slieshow/slide.php): failed to open stream: No such file or directory in /home/letsneth/public_html/ingatlan/index.php on line 21
+[28-Mar-2016 23:23:32 CET] PHP Fatal error:  require(): Failed opening required 'slieshow/slide.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/letsneth/public_html/ingatlan/index.php on line 21
+[28-Mar-2016 23:23:33 CET] PHP Warning:  require(slieshow/slide.php): failed to open stream: No such file or directory in /home/letsneth/public_html/ingatlan/index.php on line 21
+[28-Mar-2016 23:23:33 CET] PHP Warning:  require(slieshow/slide.php): failed to open stream: No such file or directory in /home/letsneth/public_html/ingatlan/index.php on line 21
+[28-Mar-2016 23:23:33 CET] PHP Fatal error:  require(): Failed opening required 'slieshow/slide.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/letsneth/public_html/ingatlan/index.php on line 21
+[28-Mar-2016 23:23:33 CET] PHP Warning:  require(slieshow/slide.php): failed to open stream: No such file or directory in /home/letsneth/public_html/ingatlan/index.php on line 21
+[28-Mar-2016 23:23:33 CET] PHP Warning:  require(slieshow/slide.php): failed to open stream: No such file or directory in /home/letsneth/public_html/ingatlan/index.php on line 21
+[28-Mar-2016 23:23:33 CET] PHP Fatal error:  require(): Failed opening required 'slieshow/slide.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/letsneth/public_html/ingatlan/index.php on line 21
+[28-Mar-2016 23:23:34 CET] PHP Warning:  require(slieshow/slide.php): failed to open stream: No such file or directory in /home/letsneth/public_html/ingatlan/index.php on line 21
+[28-Mar-2016 23:23:34 CET] PHP Warning:  require(slieshow/slide.php): failed to open stream: No such file or directory in /home/letsneth/public_html/ingatlan/index.php on line 21
+[28-Mar-2016 23:23:34 CET] PHP Fatal error:  require(): Failed opening required 'slieshow/slide.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/letsneth/public_html/ingatlan/index.php on line 21
+[28-Mar-2016 23:23:34 CET] PHP Warning:  require(slieshow/slide.php): failed to open stream: No such file or directory in /home/letsneth/public_html/ingatlan/index.php on line 21
+[28-Mar-2016 23:23:34 CET] PHP Warning:  require(slieshow/slide.php): failed to open stream: No such file or directory in /home/letsneth/public_html/ingatlan/index.php on line 21
+[28-Mar-2016 23:23:34 CET] PHP Fatal error:  require(): Failed opening required 'slieshow/slide.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/letsneth/public_html/ingatlan/index.php on line 21
+[28-Mar-2016 23:23:35 CET] PHP Warning:  require(slieshow/slide.php): failed to open stream: No such file or directory in /home/letsneth/public_html/ingatlan/index.php on line 21
+[28-Mar-2016 23:23:35 CET] PHP Warning:  require(slieshow/slide.php): failed to open stream: No such file or directory in /home/letsneth/public_html/ingatlan/index.php on line 21
+[28-Mar-2016 23:23:35 CET] PHP Fatal error:  require(): Failed opening required 'slieshow/slide.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/letsneth/public_html/ingatlan/index.php on line 21
+[28-Mar-2016 23:23:36 CET] PHP Warning:  require(slieshow/slide.php): failed to open stream: No such file or directory in /home/letsneth/public_html/ingatlan/index.php on line 21
+[28-Mar-2016 23:23:36 CET] PHP Warning:  require(slieshow/slide.php): failed to open stream: No such file or directory in /home/letsneth/public_html/ingatlan/index.php on line 21
+[28-Mar-2016 23:23:36 CET] PHP Fatal error:  require(): Failed opening required 'slieshow/slide.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/letsneth/public_html/ingatlan/index.php on line 21
+[28-Mar-2016 23:23:38 CET] PHP Warning:  require(slieshow/slide.php): failed to open stream: No such file or directory in /home/letsneth/public_html/ingatlan/index.php on line 21
+[28-Mar-2016 23:23:38 CET] PHP Warning:  require(slieshow/slide.php): failed to open stream: No such file or directory in /home/letsneth/public_html/ingatlan/index.php on line 21
+[28-Mar-2016 23:23:38 CET] PHP Fatal error:  require(): Failed opening required 'slieshow/slide.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/letsneth/public_html/ingatlan/index.php on line 21
+[28-Mar-2016 23:23:39 CET] PHP Warning:  require(slieshow/slide.php): failed to open stream: No such file or directory in /home/letsneth/public_html/ingatlan/index.php on line 21
+[28-Mar-2016 23:23:39 CET] PHP Warning:  require(slieshow/slide.php): failed to open stream: No such file or directory in /home/letsneth/public_html/ingatlan/index.php on line 21
+[28-Mar-2016 23:23:39 CET] PHP Fatal error:  require(): Failed opening required 'slieshow/slide.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/letsneth/public_html/ingatlan/index.php on line 21
+[28-Mar-2016 23:23:40 CET] PHP Warning:  require(slieshow/slide.php): failed to open stream: No such file or directory in /home/letsneth/public_html/ingatlan/index.php on line 21
+[28-Mar-2016 23:23:40 CET] PHP Warning:  require(slieshow/slide.php): failed to open stream: No such file or directory in /home/letsneth/public_html/ingatlan/index.php on line 21
+[28-Mar-2016 23:23:40 CET] PHP Fatal error:  require(): Failed opening required 'slieshow/slide.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/letsneth/public_html/ingatlan/index.php on line 21
+[28-Mar-2016 23:23:41 CET] PHP Warning:  require(slieshow/slide.php): failed to open stream: No such file or directory in /home/letsneth/public_html/ingatlan/index.php on line 21
+[28-Mar-2016 23:23:41 CET] PHP Warning:  require(slieshow/slide.php): failed to open stream: No such file or directory in /home/letsneth/public_html/ingatlan/index.php on line 21
+[28-Mar-2016 23:23:41 CET] PHP Fatal error:  require(): Failed opening required 'slieshow/slide.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/letsneth/public_html/ingatlan/index.php on line 21
+[28-Mar-2016 23:23:42 CET] PHP Warning:  require(slieshow/slide.php): failed to open stream: No such file or directory in /home/letsneth/public_html/ingatlan/index.php on line 21
+[28-Mar-2016 23:23:42 CET] PHP Warning:  require(slieshow/slide.php): failed to open stream: No such file or directory in /home/letsneth/public_html/ingatlan/index.php on line 21
+[28-Mar-2016 23:23:42 CET] PHP Fatal error:  require(): Failed opening required 'slieshow/slide.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/letsneth/public_html/ingatlan/index.php on line 21
+[28-Mar-2016 23:23:50 CET] PHP Warning:  require(slieshow/slide.php): failed to open stream: No such file or directory in /home/letsneth/public_html/ingatlan/index.php on line 21
+[28-Mar-2016 23:23:50 CET] PHP Warning:  require(slieshow/slide.php): failed to open stream: No such file or directory in /home/letsneth/public_html/ingatlan/index.php on line 21
+[28-Mar-2016 23:23:50 CET] PHP Fatal error:  require(): Failed opening required 'slieshow/slide.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/letsneth/public_html/ingatlan/index.php on line 21
+[28-Mar-2016 23:23:59 CET] PHP Warning:  require(slieshow/slide.php): failed to open stream: No such file or directory in /home/letsneth/public_html/ingatlan/index.php on line 21
+[28-Mar-2016 23:23:59 CET] PHP Warning:  require(slieshow/slide.php): failed to open stream: No such file or directory in /home/letsneth/public_html/ingatlan/index.php on line 21
+[28-Mar-2016 23:23:59 CET] PHP Fatal error:  require(): Failed opening required 'slieshow/slide.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/letsneth/public_html/ingatlan/index.php on line 21
+[28-Mar-2016 23:24:01 CET] PHP Warning:  require(slieshow/slide.php): failed to open stream: No such file or directory in /home/letsneth/public_html/ingatlan/index.php on line 21
+[28-Mar-2016 23:24:01 CET] PHP Warning:  require(slieshow/slide.php): failed to open stream: No such file or directory in /home/letsneth/public_html/ingatlan/index.php on line 21
+[28-Mar-2016 23:24:01 CET] PHP Fatal error:  require(): Failed opening required 'slieshow/slide.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/letsneth/public_html/ingatlan/index.php on line 21
+[28-Mar-2016 23:24:01 CET] PHP Warning:  require(slieshow/slide.php): failed to open stream: No such file or directory in /home/letsneth/public_html/ingatlan/index.php on line 21
+[28-Mar-2016 23:24:01 CET] PHP Warning:  require(slieshow/slide.php): failed to open stream: No such file or directory in /home/letsneth/public_html/ingatlan/index.php on line 21
+[28-Mar-2016 23:24:01 CET] PHP Fatal error:  require(): Failed opening required 'slieshow/slide.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/letsneth/public_html/ingatlan/index.php on line 21
+[28-Mar-2016 23:24:02 CET] PHP Warning:  require(slieshow/slide.php): failed to open stream: No such file or directory in /home/letsneth/public_html/ingatlan/index.php on line 21
+[28-Mar-2016 23:24:02 CET] PHP Warning:  require(slieshow/slide.php): failed to open stream: No such file or directory in /home/letsneth/public_html/ingatlan/index.php on line 21
+[28-Mar-2016 23:24:02 CET] PHP Fatal error:  require(): Failed opening required 'slieshow/slide.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/letsneth/public_html/ingatlan/index.php on line 21
+[28-Mar-2016 23:24:02 CET] PHP Warning:  require(slieshow/slide.php): failed to open stream: No such file or directory in /home/letsneth/public_html/ingatlan/index.php on line 21
+[28-Mar-2016 23:24:02 CET] PHP Warning:  require(slieshow/slide.php): failed to open stream: No such file or directory in /home/letsneth/public_html/ingatlan/index.php on line 21
+[28-Mar-2016 23:24:02 CET] PHP Fatal error:  require(): Failed opening required 'slieshow/slide.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/letsneth/public_html/ingatlan/index.php on line 21
+[28-Mar-2016 23:24:02 CET] PHP Warning:  require(slieshow/slide.php): failed to open stream: No such file or directory in /home/letsneth/public_html/ingatlan/index.php on line 21
+[28-Mar-2016 23:24:02 CET] PHP Warning:  require(slieshow/slide.php): failed to open stream: No such file or directory in /home/letsneth/public_html/ingatlan/index.php on line 21
+[28-Mar-2016 23:24:02 CET] PHP Fatal error:  require(): Failed opening required 'slieshow/slide.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/letsneth/public_html/ingatlan/index.php on line 21
+[28-Mar-2016 23:24:03 CET] PHP Warning:  require(slieshow/slide.php): failed to open stream: No such file or directory in /home/letsneth/public_html/ingatlan/index.php on line 21
+[28-Mar-2016 23:24:03 CET] PHP Warning:  require(slieshow/slide.php): failed to open stream: No such file or directory in /home/letsneth/public_html/ingatlan/index.php on line 21
+[28-Mar-2016 23:24:03 CET] PHP Fatal error:  require(): Failed opening required 'slieshow/slide.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/letsneth/public_html/ingatlan/index.php on line 21
+[28-Mar-2016 23:33:42 CET] PHP Warning:  require(slider.php): failed to open stream: No such file or directory in /home/letsneth/public_html/ingatlan/index.php on line 23
+[28-Mar-2016 23:33:42 CET] PHP Warning:  require(slider.php): failed to open stream: No such file or directory in /home/letsneth/public_html/ingatlan/index.php on line 23
+[28-Mar-2016 23:33:42 CET] PHP Fatal error:  require(): Failed opening required 'slider.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/letsneth/public_html/ingatlan/index.php on line 23
+[28-Mar-2016 23:33:45 CET] PHP Warning:  require(slider.php): failed to open stream: No such file or directory in /home/letsneth/public_html/ingatlan/index.php on line 23
+[28-Mar-2016 23:33:45 CET] PHP Warning:  require(slider.php): failed to open stream: No such file or directory in /home/letsneth/public_html/ingatlan/index.php on line 23
+[28-Mar-2016 23:33:45 CET] PHP Fatal error:  require(): Failed opening required 'slider.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/letsneth/public_html/ingatlan/index.php on line 23
