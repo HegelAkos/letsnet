@@ -52,6 +52,14 @@ table {
   border-spacing: 0;
 }
 
+/*-------------  Colors  ---------------
+dark grey:
+#2D2D2E
+
+green:
+#2EA24C
+--------------------------------------*/
+
 /*-------------------------------------------------------------
 						
 						Body
@@ -62,6 +70,7 @@ body {
     overflow: auto;
     height: auto;
     font: 300 16px/22px "Helvetica Neue" Helvetica Arial sans-serif;
+    color: #2D2D2E;
     background-color: white; 
     overflow-x: hidden;
 }
@@ -75,11 +84,120 @@ body {
 header {
 	background: white;
 	position: absolute;
+	z-index: 200;
 	top: 0;
 	width: 100%;
 	height: 15vh;
 	background: white;
 	box-shadow: 0 3px 10px grey;
+}
+
+.headerdiv {
+	display: table-cell;
+	height: 15vh;
+	position: relative;
+	vertical-align: middle;
+}
+
+.headerdiv:nth-child(1) {
+	width: 10%;
+}
+
+.headerdiv:nth-child(2) {
+	width: 70%;
+	text-align: center;
+}
+
+.headerdiv:nth-child(3) {
+	width: 30%;
+	text-align: right;
+}
+
+.logo {
+	margin-left: 2vw;
+	height: 9vh;
+	width: auto;
+	opacity: 1;
+    transition-property: opacity;
+	transition-duration: .3s;
+	transition-timing-function: ease-out;
+}
+
+.logo:hover {
+	opacity: 0.70;
+}
+
+header nav {
+	display: inline-block;
+	width: auto;
+	height: auto;
+	
+}
+
+header nav a {
+	font-size: 17px;
+}
+	
+a {
+	color: #2EA24C;
+	text-decoration: none;
+	opacity: 1;
+    transition-property: opacity;
+	transition-duration: .3s;
+	transition-timing-function: ease-out;
+}
+
+a:hover {
+	opacity: .50;
+}
+
+.opacity {
+
+	opacity: 1;
+    transition-property: opacity;
+	transition-duration: .3s;
+	transition-timing-function: ease-out;
+}
+
+.opacity:hover {
+	opacity: .50;
+}
+
+header nav span {
+	color: grey;
+}
+
+header nav a, header nav span {
+	margin-left: 1vw;
+	display: inline-block;
+}
+
+#loginbutton {
+	margin-right: 2vw;
+	border-radius: 3px;
+	padding: 10px;
+	text-decoration: none;
+	color: rgba(46, 163, 77, 1);
+	background-color: white;
+	border: 1px solid #2EA24C;
+	background-image: url('img/loginarrow.png');
+	background-position: -50% 50%;
+	background-repeat: no-repeat;
+	background-size: 30px auto;
+	transition-property: color, background-color, background-position;
+	transition-duration: .1s, .5s, .5s;
+	transition-timing-function: ease-out;
+}
+
+#loginbutton:hover {
+	color: rgba(46, 163, 77, 0);
+	background-color: #2EA24C;
+	background-position: 50% 50%;
+	opacity: 1;
+}
+
+#loginbutton, .logo, header nav {
+	margin-top: 1vh;
 }
 
 /*-------------------------------------------------------------
@@ -95,6 +213,10 @@ header {
 	right: 48vw;
 	bottom: -2vw;
 	z-index: 200;
+}
+
+.fullscreen:nth-child(2) .arrow {
+	display: none;
 }
 
 /*-------------------------------------------------------------
@@ -118,6 +240,48 @@ header {
 .second {
 	background: black;
 	color: white;
+}
+
+
+.macbook, .first .text {
+	display: inline-block;
+	width: 50%;
+	height: 50%;
+	padding-top: 15vh;
+}
+
+.macbook {
+	background-image: url('img/macbook.jpg');
+	background-repeat: no-repeat;
+	background-position: 0% 15vh;
+	background-size: contain;
+}
+
+.first .text {
+	height: 60%;
+	box-sizing: border-box;
+	vertical-align: top;
+	text-align: justify;
+	padding-left: 5%;
+	padding-right: 5%;
+}
+
+.how {
+	color: #2EA24C;
+	padding-top: 10vh;
+	box-sizing: border-box;
+	height: 30%;
+	margin: 0 auto;
+	text-align: center;
+	font-size: 25px;
+}
+
+.how img {
+	display: block;
+	width: 30px;
+	height: auto;
+	margin: 0 auto;
+	margin-top: 15px;
 }
 
 /*-------------------------------------------------------------
@@ -175,3 +339,42 @@ footer {
 .slide3 {background-image: url('img/villa3.jpg');}
 .slide4 {background-image: url('img/villa2.jpg');}
 .slide5 {background-image: url('img/villa1.jpg');}
+
+/*-------------------------------------------------------------
+						
+					Slider Navigation Buttons
+						
+--------------------------------------------------------------*/
+
+.group1-Wrapper {
+    position: absolute;
+    z-index: 20;
+    top: 50%;
+    margin-left: 50%;
+    width: 1px;
+}
+a.group1-Prev, a.group1-Next {
+    width: 50px;
+    height: 150px;
+    background-size: 50px 80px;
+    background-repeat: no-repeat;
+    display: block; 
+    cursor: pointer;
+    position: absolute;
+    top: 0;
+    user-select: none;
+}
+a.group1-Prev {
+	background-image: url('img/arrow-left.png'); 
+	left: -530px;
+}
+a.group1-Next {
+	background-image: url('img/arrow-right.png'); 
+	left: 480px;
+}
+a.group1-Prev:hover {
+	background-image: url('img/arrow-left-hover.png'); 
+}
+a.group1-Next:hover {
+	background-image: url('img/arrow-right-hover.png'); 
+}
